@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://example.com"
 title = "Don J. Kahn"
 theme = "dimension"
 languageCode = "en-us"
@@ -8,13 +8,15 @@ disableKinds=["RSS"]
 
 [params]
   description = '<!--[-->Practicing Continuous Improvement<!--]--><br />'
-  logo = "fa-diamond"
-  copyright = "Untitled"
+  # logoimage= "/images/dj.jpg"
+  logo = "fa-bicycle"
+  # logo = "fa-empire"
+  # copyright = "Untitled"
 
 [[params.social]]
   medium = "twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/kahdojay"
 
 [[params.social]]
   medium = "facebook"
@@ -24,9 +26,56 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/kahdojay/"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/kahdojay"
+
+# baseurl = "http://example.org"
+# title = "Dimension"
+# theme = "dimension"
+# languageCode = "en-us"
+# defaultContentLanguage = "en"
+# enableRobotsTXT = true
+# disableKinds=["RSS"]
+#
+# [params]
+#   description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+#                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+#   logoimage= "images/dj.jpg"
+#   # logo = "fa-diamond"
+#   copyright = "Untitled"
+#
+# [[params.social]]
+#   medium = "twitter"
+#   icon = "twitter"
+#   link = "#"
+#
+# [[params.social]]
+#   medium = "facebook"
+#   icon = "facebook"
+#   link = "#"
+#
+# [[params.social]]
+#   medium = "instagram"
+#   icon = "instagram"
+#   link = "#"
+#
+# [[params.social]]
+#   medium = "github"
+#   icon = "github"
+#   link = "#"
+#
+# [languages]
+# [languages.en]
+# languageName = "English"
+# weight = 1
+#
+# [languages.de]
+# languageName = "Deutsch"
+# weight = 2
+# title = "Dimension"
+# description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+#                 <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
