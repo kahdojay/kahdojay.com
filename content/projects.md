@@ -9,6 +9,8 @@ draft = false
 - [Poetry Desk](https://assistant.google.com/services/a/uid/000000e7326d8c65)
 is a Google Home / Assistant app that reads poetry works from the public domain. Listen to some of your favorite classic poets such as Walt Whitman, Emily Dickinson, and Edgar Allan Poe, by telling Google Home to "Ask Poetry Desk for a poem".
 
+- [kahdojay.com](https://kahdojay.com) - my personal (this) site, built with [Hugo](https://gohugo.io/) and hosted on [Firebase](https://firebase.google.com/).
+
 - [Habit List Parser](https://github.com/kahdojay/habit-list-data-parser) is a basic CLI utility that takes your Habit List (an iOS app used to collect your daily habit/goal performance) JSON exports and gives you a quick overview of your performance during a given time period. [I use it to populate historical data and create a habit dashboard](https://medium.com/@kahdojay/collect-measure-and-analyze-your-habit-data-aea81c69630c).
 
 
