@@ -14,6 +14,6 @@ is a Google Home / Assistant app that reads poetry works from the public domain.
 - [Habit List Parser](https://github.com/kahdojay/habit-list-data-parser) is a basic CLI utility that takes your Habit List (an iOS app used to collect your daily habit/goal performance) JSON exports and gives you a quick overview of your performance during a given time period. [I use it to populate historical data and create a habit dashboard](https://medium.com/@kahdojay/collect-measure-and-analyze-your-habit-data-aea81c69630c).
 
 
-- [Art of War Quotes](https://alexa.amazon.com/spa/index.html#skills/amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65) is an Alexa Skill that contains over 70 selected quotes from the Art of War, for inspiration and guidance from master Sun Tzu. Invoke with your Alexa-enabled device by simplying enabling the skill and saying "Art of War" to Alexa.
+- [Art of War Quotes](https://alexa.amazon.com/spa/index.html#skills/amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65) is an Alexa Skill that contains over 70 selected quotes from the Art of War, for inspiration and guidance from master Sun Tzu. Invoke with your Alexa-enabled device by simply enabling the skill then saying "Art of War" to Alexa.
 
 - [aicooksthai.com](http://www.aicooksthai.com) Is a website I built to help my partner build her online brand to help launch her cooking ventures.
