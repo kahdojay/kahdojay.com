@@ -16,4 +16,4 @@ is a Google Home / Assistant app that reads poetry works from the public domain.
 
 - [Art of War Quotes](https://alexa.amazon.com/spa/index.html#skills/amzn1.ask.skill.54532127-adc3-4675-b25a-192f4bb84a65) is an Alexa Skill that contains over 70 selected quotes from the Art of War, for inspiration and guidance from master Sun Tzu. Invoke with your Alexa-enabled device by simply enabling the skill then saying "Art of War" to Alexa.
 
-- [aicooksthai.com](http://www.aicooksthai.com) Is a website I built to help my partner build her online brand to help launch her cooking ventures.
+- [aicooksthai.com](http://www.aicooksthai.com) Is a website I built with my partner to help establish her online prescence to help launch her cooking ventures.
